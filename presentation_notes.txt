@@ -1,0 +1,42 @@
+
+Abstract: Test automation is a popular discussion topic in software testing, especially regarding user interfaces and web services.  Established patterns, abundant articles and open source frameworks are some common resources used to achieve our automated testing goals.  There are other approaches to automation that can be additive without overshadowing human testing, but how does testing expertise apply to them?  This talk explores some of these other approaches to automation, taking a look at data generation, Continuous Delivery, environment configuration and code analysis using practical demonstrations.
+
+Outline:
+What this talk is not (5 minutes)
+Environment configuration + demo (5 minutes)
+Data generation + demo (5 minutes)
+Code analysis + demo (10 minutes)
+Continuous Delivery (5 minutes)
+Q&A (10 minutes)
+
+Goals:
+Exposure to different kinds of automation
+Benefits of applying testing to these kinds of tests
+Code samples that can be used during the presentation and then again individually
+
+Story:
+How does testing impact these kinds of automation?
+How does a tester use these kinds of automation?
+
+--- What this Talk is Not ---
+* Why do this talk?
+* Testing keeping pace with development as it changes
+* Creating common language and common skills on teams
+* By seeing these tools together it can start to make sense
+
+--- Environment Configuration ---
+* Validate your environment before testing.
+
+--- More Environment Configuration ---
+* Everything has some kind of configuration.
+* Look for better ways to create and test your configurations.
+* SQL queries and configuration files can get out of date.
+
+--- Code Analysis Terms ---
+* Interesting that this is another domain.
+* Code coverage is dynamic code analysis.
+
+--- Continuous Delivery ---
+* Much of its success is because it focuses on what is being shipped and its automation scales for larger companies
+* Unit tests and integration tests become feedback mechanisms but they're more than that
+
